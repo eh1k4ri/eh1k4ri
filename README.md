@@ -6,21 +6,25 @@
 # 🚏 next stop: hikari 🚏
 </div>
 
----
+## about me
 
-## 👤 about me
+<table>
+<tr>
+<td width="70%">
+
 **computer science student** • **cybersecurity enthusiast**
-<div align="left">
+
 been taking things apart since i was 9 — hardware, software, systems. the curiosity never stopped.
 
 i don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
-</div>
 
-<div align="right">
+</td>
+<td width="30%" align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/calumon.gif" width="200" alt="Calumon">
-</div>
+</td>
+</tr>
+</table>
 
----
 ## 🛠️ tech stack
 ```python
 skills = {
