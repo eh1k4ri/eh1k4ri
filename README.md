@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/on-my-way.gif" width="100%" alt="Someone on a bus going somewhere">
 </div>
-<div align="center">
 
+<div align="center">
 # 🚏 next stop: hikari 🚏
 </div>
 
@@ -12,11 +12,13 @@
 <tr>
 <td width="70%">
 
-**computer science student** • **cybersecurity enthusiast**
+**computer science student @ inteli** • **software engineer @ qi tech**
 
 been taking things apart since i was 9 — hardware, software, systems. the curiosity never stopped.
 
-i don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
+currently working with **banking-as-a-service** systems, automating critical processes, and exploring the intersection of **software engineering** and **cybersecurity**.
+
+don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
 </td>
 <td width="30%" align="center">
@@ -25,22 +27,16 @@ i don't have all the answers, but i'm here to learn, experiment, and build. life
 </tr>
 </table>
 
+
 ## 🛠️ tech stack
+
 ```python
-skills = {
-    "languages": ["Python", "C", "Assembly", "Bash"],
-    "interests": ["binary analysis", "vulnerability research", "CTFs"],
-    "learning": ["kernel exploitation", "malware analysis"],
-    "mindset": "always curious, always learning"
+current_focus = {
+    "languages": ["Python", "Go", "Kotlin"],
+    "frontend": ["React + TypeScript", "Vite"],
+    "cloud": ["GCP", "AWS", "Azure"],
+    "working_with": ["REST APIs", "CI/CD pipelines", "SQL databases"],
+    "learning": ["cybersecurity", "secure coding", "vulnerability research"],
+    "interests": ["fintech systems", "automation", "security engineering"]
 }
 ```
----
-
-## 📫 let's connect
-
-<p align="center">
-  <a href="https://github.com/eh1k4ri"><img src="https://img.shields.io/badge/GitHub-eh1k4ri-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <!-- Adicione outros links aqui: LinkedIn, Twitter, email, etc. -->
-</p>
-  <em>lost but searching ✨</em>
-</div>
