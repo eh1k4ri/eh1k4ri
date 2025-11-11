@@ -41,3 +41,9 @@ current_focus = {
     "interests": ["fintech systems", "automation", "security engineering"]
 }
 ```
+
+---
+
+<div align="center">
+  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/kari.gif" width="100%" alt="Hikari from Digimon trying to pick up a can and dropping it">
+</div>
