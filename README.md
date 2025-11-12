@@ -21,14 +21,17 @@ currently working with **banking-as-a-service** systems, automating critical pro
 
 don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
-<div align="center">
-
 </td>
 <td width="30%" align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="200" alt="Calumon">
 </td>
 </tr>
 </table>
+
+
+## 📊 github stats
+
+<div align="center">
 
 <table>
 <tr>
@@ -46,8 +49,6 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 </table>
 
 </div>
-
----
 
 ## 🛠️ tech stack
 
