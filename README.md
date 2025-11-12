@@ -49,7 +49,11 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=eh1k4ri&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF)
+<div align="center">
+
+![Snake animation](https://github.com/eh1k4ri/eh1k4ri/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 </div>
 
@@ -78,6 +82,17 @@ current_focus = {
 </td>
 </tr>
 </table>
+
+---
+
+## 📫 let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+</div>
 
 <!-- <div align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/kari.gif" width="200" alt="Hikari from Digimon trying to pick up a can and dropping it">
