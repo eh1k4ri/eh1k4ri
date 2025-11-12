@@ -49,12 +49,6 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 </tr>
 </table>
 
-<div align="center">
-
-![Snake animation](https://github.com/eh1k4ri/eh1k4ri/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 </div>
 
 ---
