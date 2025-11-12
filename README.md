@@ -31,6 +31,13 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 ## 🛠️ tech stack
 
+<table>
+<tr>
+<td width="20%" align="center">
+  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/calumon.gif" width="150" alt="Calumon">
+</td>
+<td width="80%">
+
 ```python
 current_focus = {
     "languages": ["Python", "Go", "Kotlin"],
@@ -41,6 +48,10 @@ current_focus = {
     "interests": ["fintech systems", "automation", "security engineering"]
 }
 ```
+
+</td>
+</tr>
+</table>
 
 <!-- <div align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/kari.gif" width="200" alt="Hikari from Digimon trying to pick up a can and dropping it">
