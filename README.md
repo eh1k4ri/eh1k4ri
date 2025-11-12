@@ -21,6 +21,8 @@ currently working with **banking-as-a-service** systems, automating critical pro
 
 don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
+<div align="center">
+
 </td>
 <td width="30%" align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="200" alt="Calumon">
@@ -28,22 +30,16 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 </tr>
 </table>
 
----
-
-## 📊 github stats
-
-<div align="center">
-
 <table>
 <tr>
 <td width="50%">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&include_all_commits=true&count_private=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=radical&hide_border=true&bg_color=F3E5F5&title_color=9B59B6&icon_color=A78BFA&text_color=6B46C1&include_all_commits=true&count_private=true&hide=issues&border_radius=20)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=radical&hide_border=true&bg_color=F3E5F5&title_color=9B59B6&text_color=6B46C1&langs_count=8&border_radius=20)
 
 </td>
 </tr>
