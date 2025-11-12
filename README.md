@@ -9,9 +9,9 @@
 
 ## about me
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table frame="void" rules="none" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="70%" style="border: none;">
+<td width="70%" style="border: none; padding: 0;">
 
 **computer science student @ inteli** • **software engineer @ qi tech**
 
@@ -22,7 +22,7 @@ currently working with **banking-as-a-service** systems, automating critical pro
 don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
 </td>
-<td width="30%" align="center" style="border: none;">
+<td width="30%" align="center" style="border: none; padding: 0;">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="200" alt="Calumon">
 </td>
 </tr>
@@ -33,16 +33,16 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table frame="void" rules="none" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" style="border: none;">
+<td width="50%" style="border: none; padding: 0;">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=9B59B6&icon_color=A78BFA&text_color=6B46C1&include_all_commits=true&count_private=true&hide=issues&border_radius=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=radical&hide_border=true&bg_color=F3E5F5&title_color=9B59B6&icon_color=A78BFA&text_color=6B46C1&include_all_commits=true&count_private=true&hide=issues&border_radius=20)
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%" style="border: none; padding: 0;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=9B59B6&text_color=6B46C1&langs_count=8&border_radius=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=radical&hide_border=true&bg_color=F3E5F5&title_color=9B59B6&text_color=6B46C1&langs_count=8&border_radius=20)
 
 </td>
 </tr>
@@ -52,12 +52,12 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 ## toolbox
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table frame="void" rules="none" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="20%" align="center" style="border: none;">
+<td width="20%" align="center" style="border: none; padding: 0;">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/calumon.gif" width="150" alt="Calumon">
 </td>
-<td width="80%" style="border: none;">
+<td width="80%" style="border: none; padding: 0;">
 
 ```python
 current_focus = {
