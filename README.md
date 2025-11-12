@@ -37,12 +37,12 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 <tr>
 <td width="50%" style="border: none;">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=9B59B6&icon_color=A78BFA&text_color=6B46C1&include_all_commits=true&count_private=true&hide=issues&border_radius=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=7C3AED&include_all_commits=true&count_private=true&hide=issues&border_radius=0)
 
 </td>
 <td width="50%" style="border: none;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=9B59B6&text_color=6B46C1&langs_count=8&border_radius=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=7C3AED&langs_count=8&border_radius=0)
 
 </td>
 </tr>
