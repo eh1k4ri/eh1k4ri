@@ -49,7 +49,7 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 </tr>
 </table>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=eh1k4ri&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=eh1k4ri&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&sideNums=FF6B9D&sideLabels=FFFFFF)
 
 </div>
 
