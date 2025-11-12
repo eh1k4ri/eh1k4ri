@@ -17,7 +17,7 @@
 
 been taking things apart since i was 9 — hardware, software, systems. the curiosity never stopped.
 
-currently working with **banking-as-a-service** systems, automating critical processes, and exploring the intersection of **software engineering** and **cybersecurity**.
+<!-- currently working with **banking-as-a-service** systems, automating critical processes, and exploring the intersection of **software engineering** and **cybersecurity**. -->
 
 don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
@@ -64,9 +64,7 @@ current_focus = {
     "languages": ["Python", "Go", "Kotlin"],
     "frontend": ["React + TypeScript", "Vite"],
     "cloud": ["GCP", "AWS", "Azure"],
-    "working_with": ["REST APIs", "CI/CD pipelines", "SQL databases"],
-    "learning": ["cybersecurity", "secure coding", "vulnerability research"],
-    "interests": ["fintech systems", "automation", "security engineering"]
+    "working_with": ["Falcon APIs", "CI/CD pipelines", "SQL databases"],
 }
 ```
 
