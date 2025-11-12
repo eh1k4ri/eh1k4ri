@@ -9,7 +9,7 @@
 
 ## about me
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="70%">
 
@@ -33,7 +33,7 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%">
   
@@ -52,7 +52,7 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 ## 🛠️ tech stack
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="20%" align="center">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/calumon.gif" width="150" alt="Calumon">
