@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1 style="font-size: clamp(1.5rem, 5vw, 2.5rem); white-space: nowrap;">🚏 next stop: hikari 🚏</h1>
+<h1 style="font-size: 4vw; white-space: nowrap; margin: 0;">🚏 next stop: hikari 🚏</h1>
 
 </div>
 
