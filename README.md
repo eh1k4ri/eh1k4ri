@@ -24,7 +24,7 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 </td>
 <td width="30%" align="center" style="border: none; vertical-align: top;">
-  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="100%" max-width="200" alt="Calumon">
+  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="100%" max-width="200" alt="Kari">
 </td>
 </tr>
 </table>
