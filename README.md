@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<h1 style="font-size: 4vw; white-space: nowrap; margin: 0;">🚏 next stop: hikari 🚏</h1>
+# 🚏 next stop: hikari 🚏
 
 </div>
 
 ## about me
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; width: 100%;">
 <tr>
-<td width="70%" style="border: none;">
+<td width="70%" style="border: none; vertical-align: top;">
 
 **computer science student @ inteli** • **software engineer @ qi tech**
 
@@ -23,8 +23,8 @@ currently working with **banking-as-a-service** systems, automating critical pro
 don't have all the answers, but i'm here to learn, experiment, and build. life's a puzzle, and i'm still figuring it out.
 
 </td>
-<td width="30%" align="center" style="border: none;">
-  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="200" alt="Calumon">
+<td width="30%" align="center" style="border: none; vertical-align: top;">
+  <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/chibi-kari.gif" width="100%" max-width="200" alt="Calumon">
 </td>
 </tr>
 </table>
@@ -34,46 +34,33 @@ don't have all the answers, but i'm here to learn, experiment, and build. life's
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="50%" style="border: none;">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=7C3AED&hide=issues&border_radius=0)
+<div>
 
-</td>
-<td width="50%" style="border: none;">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eh1k4ri&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=A78BFA&text_color=7C3AED&hide=issues&border_radius=0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eh1k4ri&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=7C3AED&langs_count=8&border_radius=0)
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
 ## toolbox
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-<td width="20%" align="center" style="border: none;">
+<div align="center" style="margin-bottom: 10px;">
   <img src="https://github.com/eh1k4ri/eh1k4ri/blob/main/assets/calumon.gif" width="150" alt="Calumon">
-</td>
-<td width="80%" style="border: none;">
+</div>
 
 ```python
 current_focus = {
-    "languages": ["Python", "Go", "Kotlin"],
-    "frontend": ["React + TypeScript", "Vite"],
+    "languages": ["Python", "Kotlin"],
+    "frontend": ["ReactTS", "Vite"],
     "cloud": ["GCP", "AWS", "Azure"],
-    "working_with": ["REST APIs", "CI/CD pipelines", "SQL databases"],
-    "learning": ["cybersecurity", "secure coding", "vulnerability research"],
-    "interests": ["fintech systems", "automation", "security engineering"]
+    "working_with": ["Falcon APIs", "CI/CD pipelines", "SQL databases"],
+    "learning": ["penetration testing", "secure coding", "vulnerability research"],
+    "interests": ["fintech systems", "automation", "cybersecurity"],
+    "hobbies": ["CTFs", "Tetris", "Music"]
 }
 ```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
